@@ -33,15 +33,30 @@
       "country" : "Greece"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id" : 3,
+      "username" : "mkjohn",
+      "name" : "Minas",
+      "surname" : "Karajohn",
+      "gender" : "Male",
+      "date_of_birth" : "1998-07-31",
+      "tax_id" : 1234567898,
+      "email" : "mkjohn@gmail.com",
+      "phone_number" : "6973301289",
+      "address" : "Atthidon",
+      "street_number" : 4,
+      "postal_code" : 12545,
+      "location" : "Athens",
+      "country" : "Greece"
     }
   ],
   "auctions": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id" : 1,
+      "name" : "Basketball",
+      "started" : "2019-07-19",
+      "ends" : "2019-07-29",
+      "seller_id" : 1,
+      "description" : "A green basket ball"
     },
     {
       "id": 2,
