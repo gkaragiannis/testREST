@@ -50,5 +50,8 @@
       "seller_id" : 2,
       "description" : "An old radio from 1940. It is brown and full functional"
     }
-  ]
+  ],
+  "profile": {
+    "name": "gkaragiannis"
+  }
 }
