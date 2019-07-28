@@ -21,3 +21,74 @@
     "name": "typicode"
   }
 }
+
+{
+  "users": [
+    {
+      "id" : 1,
+      "username" : "gkarag",
+      "name" : "George",
+      "surname" : "Karagiannis",
+      "gender" : "Male",
+      "date_of_birth" : "1990-07-02",
+      "tax_id" : 1234567890,
+      "email" : "gkarag@outlook.com",
+      "phone_number" : "6973301290",
+      "address" : "Miliaraki",
+      "street_number" : 70,
+      "postal_code" : 11145,
+      "location" : "Athens",
+      "country" : "Greece"
+    },
+    {
+      "id" : 2,
+      "username" : "amach",
+      "name" : "Aggeliki",
+      "surname" : "Machairitsa",
+      "gender" : "Female",
+      "date_of_birth" : "1990-11-10",
+      "tax_id" : 1234567899,
+      "email" : "amach@gmail.com",
+      "phone_number" : "6970456890",
+      "address" : "Stratigou Dagkli",
+      "street_number" : 71,
+      "postal_code" : 10445,
+      "location" : "Athens",
+      "country" : "Greece"
+    },
+    {
+      "id" : 3,
+      "username" : "mkjohn",
+      "name" : "Minas",
+      "surname" : "Karajohn",
+      "gender" : "Male",
+      "date_of_birth" : "1998-07-31",
+      "tax_id" : 1234567898,
+      "email" : "mkjohn@gmail.com",
+      "phone_number" : "6973301289",
+      "address" : "Atthidon",
+      "street_number" : 4,
+      "postal_code" : 12545,
+      "location" : "Athens",
+      "country" : "Greece"
+    }
+  ],
+  "auctions": [
+    {
+      "id" : 1,
+      "name" : "Basketball",
+      "started" : "2019-07-19",
+      "ends" : "2019-07-29",
+      "seller_id" : 1,
+      "description" : "A green basket ball"
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "gkaragiannis"
+  }
+}
