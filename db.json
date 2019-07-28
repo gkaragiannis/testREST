@@ -23,7 +23,7 @@
       "surname" : "Machairitsa",
       "gender" : "Female",
       "date_of_birth" : "1990-11-10",
-      "tax_id" : 9087654321,
+      "tax_id" : 1234567899,
       "email" : "amach@gmail.com",
       "phone_number" : "6970456890",
       "address" : "Stratigou Dagkli",
@@ -55,3 +55,4 @@
     "name": "gkaragiannis"
   }
 }
+
