@@ -17,8 +17,20 @@
       "country" : "Greece"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id" : 2,
+      "username" : "amach",
+      "name" : "Aggeliki",
+      "surname" : "Machairitsa",
+      "gender" : "Female",
+      "date_of_birth" : "1990-11-10",
+      "tax_id" : 1234567899,
+      "email" : "amach@gmail.com",
+      "phone_number" : "6970456890",
+      "address" : "Stratigou Dagkli",
+      "street_number" : 71,
+      "postal_code" : 10445,
+      "location" : "Athens",
+      "country" : "Greece"
     },
     {
       "id": 3,
