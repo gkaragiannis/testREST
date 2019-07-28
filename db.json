@@ -59,9 +59,12 @@
       "description" : "A green basket ball"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id" : 2,
+      "name" : "Radio",
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "An old radio from 1940. It is brown and full functional"
     }
   ],
   "profile": {
