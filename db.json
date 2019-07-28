@@ -35,19 +35,19 @@
   ],
   "auctions": [
     {
-      id : 1,
-      name : "Basketball",
-      started : "2019-07-19",
-      ends : "2019-07-29",
-      seller_id : 1,
-      description : "A green basket ball"
+      "id" : 1,
+      "name" : "Basketball",
+      "started" : "2019-07-19",
+      "ends" : "2019-07-29",
+      "seller_id" : 1,
+      "description" : "A green basket ball"
     },
     {
-      id : 1,
-      name : "Radio",
-      started : "2019-07-15",
-      ends : "2019-07-20",
-      seller_id : 2,
-      description : "An old radio from 1940. It is brown and full functional"
+      "id" : 1,
+      "name" : "Radio",
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "An old radio from 1940. It is brown and full functional"
     }
 }
