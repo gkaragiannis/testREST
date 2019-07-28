@@ -1,8 +1,20 @@
 {
   "users": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id" : 1,
+      "username" : "gkarag",
+      "name" : "George",
+      "surname" : "Karagiannis",
+      "gender" : "Male",
+      "date_of_birth" : "1990-07-02",
+      "tax_id" : 1234567890,
+      "email" : "gkarag@outlook.com",
+      "phone_number" : "6973301290",
+      "address" : "Miliaraki",
+      "street_number" : 70,
+      "postal_code" : 11145,
+      "location" : "Athens",
+      "country" : "Greece"
     },
     {
       "id": 2,
