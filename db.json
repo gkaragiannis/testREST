@@ -53,6 +53,9 @@
     {
       "id" : 1,
       "name" : "Basketball",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
       "started" : "2019-07-19",
       "ends" : "2019-07-29",
       "seller_id" : 1,
@@ -61,6 +64,9 @@
     {
       "id" : 2,
       "name" : "Radio",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
       "started" : "2019-07-15",
       "ends" : "2019-07-20",
       "seller_id" : 2,
