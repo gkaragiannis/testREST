@@ -59,7 +59,8 @@
       "started" : "2019-07-19",
       "ends" : "2019-07-29",
       "seller_id" : 1,
-      "description" : "A green basket ball"
+      "description" : "A green basket ball",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4caC8ZVuOcgVt5l6jA67VTeqSNtTkXGtCXSyplSvaJQzaKVWQ"
     },
     {
       "id" : 2,
@@ -70,7 +71,8 @@
       "started" : "2019-07-15",
       "ends" : "2019-07-20",
       "seller_id" : 2,
-      "description" : "An old radio from 1940. It is brown and full functional"
+      "description" : "An old radio from 1940. It is brown and full functional",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4caC8ZVuOcgVt5l6jA67VTeqSNtTkXGtCXSyplSvaJQzaKVWQ"
     }
   ],
   "profile": {
