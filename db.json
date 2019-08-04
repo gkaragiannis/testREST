@@ -73,6 +73,90 @@
       "seller_id" : 2,
       "description" : "An old radio from 1940. It is brown and full functional",
       "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4caC8ZVuOcgVt5l6jA67VTeqSNtTkXGtCXSyplSvaJQzaKVWQ"
+    },
+    {
+      "id" : 3,
+      "name" : "TV",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "A brand new 50'' LED TV",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AlK3MtCylP-W7kscpccWIIqjM9kTDAEUfZ72Wpuf7XHhKaOp"
+    },
+    {
+      "id" : 4,
+      "name" : "Table",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "An old, brown table from 1940",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsYtf7Pq7VOVDDh1E1RSsMfAHVOdIH2eQ1y6noWtaTVqNVPMH5g"
+    },
+    {
+      "id" : 5,
+      "name" : "Teddy Bear",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "A lovely teddy bear",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimO23_wloXBYsGCBJ4_wgBJZQ0xjggnnDu_MFTO1zuUqdFr8jrQ"
+    },
+    {
+      "id" : 6,
+      "name" : "Red Car",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "A tiny red car",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvN7c4bi5wHWbLbmGbAWLmn02TxjH7Gwlzj5XYKFqdJCmLMq3tEA"
+    },
+    {
+      "id" : 7,
+      "name" : "Lego",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "All time classic lego",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtYQmgWHoArNU9nffm5HEJAZcNnBEurUEGMkdlWse_aScvnNTsg"
+    },
+    {
+      "id" : 8,
+      "name" : "Playmobil",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "The Playmobil castle",
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsEYIdVhvcfwHxIiBJKw7YQyiMEUr7Oy_DAGDWyGhB5FfsdSRcg"
+    },
+    {
+      "id" : 9,
+      "name" : "Barbie",
+      "total_bids": 2,
+      "first_bid": 5,
+      "last_bid": 10,
+      "started" : "2019-07-15",
+      "ends" : "2019-07-20",
+      "seller_id" : 2,
+      "description" : "The Dr Barbie",
+      "image" : "https://media.mattel.com/root/Images/MainImage/bdt49_barbie_careers_doctor_playset_xxx.jpg"
     }
   ],
   "profile": {
