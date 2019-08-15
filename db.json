@@ -151,6 +151,28 @@
     }
   ],
   "bids": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "image": "https://electrolandgh.com/pub/media/wysiwyg/new_samsung.png"
+    },
+    {
+      "id": 2,
+      "name": "Furniture",
+      "image": "https://directfactoryfurniture.net/wp-content/uploads/2018/10/full-of-furniture.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Toys",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClneTyiO8owXsAzdJqHjsnFsah9ZgN3MUEPNyQ-jkK5N5eZbP3Q"
+    },
+    {
+      "id": 4,
+      "name": "Sports",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUlDofo__9BTv6IVV-v8BjPGNOIjGJoxOuxiK97LMUYmRnHWZVA"
+    }
+  ],
   "profile": {
     "name": "gkaragiannis"
   }
